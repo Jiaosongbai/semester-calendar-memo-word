@@ -1,0 +1,26 @@
+{
+  "title": "小红书大学 2027年秋季学期记事本",
+  "statutory_holidays": [],
+  "calendar_day_markers": [],
+  "school_breaks": [],
+  "special_day_markers": [
+    {
+      "name": "生日",
+      "date": "2027-11-06",
+      "kind": "birthday",
+      "sentiment": "positive",
+      "blessing": "愿新岁常安，所愿皆如意"
+    }
+  ],
+  "activities": [],
+  "sections": [
+    {
+      "name": "秋季学期",
+      "info": "开学：2027年9月10日 ｜ 行课：第1—14周 ｜ 考试：第15—17周",
+      "start": "2027-09-13",
+      "weeks": 17,
+      "exam_from_week": 15
+    }
+  ],
+  "source_note": "来源：用户提供的纯文字说明。用户称‘正常放假’，但截至生成时未检索到国务院办公厅发布的2027年具体节假日安排，因此未预测或补录法定放假日期。"
+}

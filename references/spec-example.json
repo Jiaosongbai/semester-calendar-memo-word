@@ -1,0 +1,37 @@
+{
+  "title": "西南财经大学 2026—2027 学年记事本",
+  "subtitle": "第一学期 · 第二学期 · 暑期学期",
+  "calendar_day_markers": [
+    {"date": "2026-09-25", "name": "中秋"},
+    {"date": "2026-10-01", "name": "国庆"},
+    {"date": "2027-01-01", "name": "元旦"},
+    {"date": "2027-02-05", "name": "除夕"},
+    {"date": "2027-02-06", "name": "春节"},
+    {"date": "2027-02-20", "name": "元宵"},
+    {"date": "2027-04-05", "name": "清明"},
+    {"date": "2027-05-01", "name": "劳动"},
+    {"date": "2027-06-09", "name": "端午"}
+  ],
+  "statutory_holidays": [],
+  "school_breaks": [
+    {"start": "2027-01-18", "end": "2027-02-21", "name": "学生寒假"},
+    {"start": "2027-07-19", "end": "2027-09-05", "name": "学生暑假"}
+  ],
+  "activities": [
+    {"anchor_date": "2026-10-01", "precision": "month", "duration_rank": 1, "text": "体育活动：2026年10月‘光华杯’排球赛"},
+    {"anchor_date": "2026-10-08", "precision": "month", "duration_rank": 1, "text": "体育活动：2026年10月秋季运动会"},
+    {"anchor_date": "2026-10-15", "precision": "month", "duration_rank": 1, "text": "学术艺术活动：2026年10月研究生学术节"},
+    {"anchor_date": "2026-10-22", "precision": "range", "duration_rank": 2, "text": "学术艺术活动：2026年10月至11月‘金色之秋’社团文化节"},
+    {"anchor_date": "2027-03-01", "precision": "month", "duration_rank": 1, "text": "体育活动：2027年3月‘光华杯’篮球联赛"},
+    {"anchor_date": "2027-04-01", "precision": "month", "duration_rank": 1, "text": "体育活动：2027年4月‘光华杯’足球联赛"},
+    {"anchor_date": "2027-04-08", "precision": "month", "duration_rank": 1, "text": "体育活动：2027年4月‘光华杯’健康活力大赛"},
+    {"anchor_date": "2027-04-22", "precision": "range", "duration_rank": 2, "text": "艺术活动：2027年4月至5月校园文化艺术节"},
+    {"anchor_date": "2027-06-01", "precision": "month", "duration_rank": 1, "text": "体育活动：2027年6月校庆健康跑"}
+  ],
+  "sections": [
+    {"name": "第一学期", "info": "报到注册：2026级本科、研究生新生8月31日、9月1日；其他年级9月5、6日 ｜ 行课：2026年9月7日至2027年1月1日 ｜ 期末考试：2027年1月4日起 ｜ 寒假：2027年1月18日至2月21日", "start": "2026-09-07", "weeks": 19, "exam_from_week": 18},
+    {"name": "第二学期", "info": "报到注册：2027年2月20、21日 ｜ 行课：2027年2月22日至6月18日 ｜ 期末考试：2027年6月21日起", "start": "2027-02-22", "weeks": 19, "exam_from_week": 18},
+    {"name": "暑期学期", "info": "行课：2027年7月5日至7月16日 ｜ 暑假：2027年7月19日至9月5日", "start": "2027-07-05", "weeks": 2}
+  ],
+  "source_note": "来源：西南财经大学2026—2027学年校历。节日仅按校历中明确标注的日期录入；具体放假及调课安排以国务院办公厅和学校后续通知为准。"
+}

@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.idea/
+.vscode/
+tests/output/
+tests/rendered/
+regression/rendered/
+regression/*-rendered/
+regression/*rendered*/
+regression/*.docx

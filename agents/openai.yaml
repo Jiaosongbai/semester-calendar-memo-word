@@ -1,0 +1,7 @@
+interface:
+  display_name: "学期校历记事本"
+  short_description: "将学校校历转换为极简、可打印、可填写的 Word 周历记事本"
+  default_prompt: "Use $semester-calendar-memo-word to convert this academic calendar into a minimalist Word weekly planner."
+
+policy:
+  allow_implicit_invocation: true
